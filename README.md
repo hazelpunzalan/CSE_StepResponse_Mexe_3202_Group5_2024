@@ -1,1 +1,1 @@
-Laboratory 2 - Step Response
+Laboratory 2 - Step Response.
